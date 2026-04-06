@@ -1,0 +1,16 @@
+{
+    "global": {
+        "version": "1.000",
+        "logpath": "C:\\windows\\incops3\\dump",
+        "reloadtime": 60,
+        "syncpolicy": false,
+        "deletelog": true
+    },
+
+    "default": {
+        "active": true,
+        "level": "debug",
+        "startdate": "2026-04-06 16:40:00",
+        "enddate": "2026-04-06 17:30:00"
+    }
+}
